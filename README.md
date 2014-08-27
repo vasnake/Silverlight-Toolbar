@@ -15,6 +15,7 @@ This is it - Toolbar only lib from ESRI.ArcGIS.Client.Toolkit.
 Sources included.
 
 How to use
+----------
 
 Add ESRI.ArcGIS.Client.Toolkit.Toolbar.dll to References in your project.
 If you're not using Silverlight v5 32-bit, you have to compile lib from sources.
@@ -112,4 +113,16 @@ private void VGR_ToolbarIndexChanged(object sender, ESRI.ArcGIS.Client.Toolkit.S
 
 Have fun!
 
+License
+-------
+
 [Microsoft Public License (Ms-PL)](http://esrisilverlight.codeplex.com/license)
+
+Links
+-----
+
+* http://vasnake.blogspot.com/2012/11/toolbar.html
+* https://www.arcgis.com/home/item.html?id=d0d90aae25604cdca900791589b4856a
+* https://geonet.esri.com/search.jspa?q=ESRI.ArcGIS.Client.Toolkit.Toolbar
+* http://esrisilverlight.codeplex.com/releases/view/60154
+* http://www.allgis.org/cartobonus/help/
